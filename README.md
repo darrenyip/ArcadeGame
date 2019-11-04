@@ -1,4 +1,4 @@
-# ArcadeGame
+# Cross river
 Click on Link:
 https://arcadegame-a1e33.firebaseapp.com/
 ##### 	How to start the game:
